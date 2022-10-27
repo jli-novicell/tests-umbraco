@@ -24,3 +24,9 @@
 
 # Ignore the Models Builder models out of date flag
 **/App_Data/Models/ood.flag
+/TestUmbracoUcommerceNetFramework/packages
+/TestUmbracoUcommerceNetFramework/.vs/TestUmbracoUcommerceNetFramework
+/TestUmbracoUcommerceNetFramework/TestUmbracoUcommerceNetFramework/obj/Debug
+/TestUmbracoUcommerceNetFramework/TestUmbracoUcommerceNetFramework/App_Data
+/TestUmbracoUcommerceNetFramework/TestUmbracoUcommerceNetFramework/Umbraco
+/TestUmbracoUcommerceNetFramework/TestUmbracoUcommerceNetFramework/bin
